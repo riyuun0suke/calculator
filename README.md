@@ -31,24 +31,4 @@ A stylish, fluid, and high-performance calculator built with Flutter. The design
 * **Expressions**: A powerful library for safe and efficient mathematical string evaluation.
 * **Haptic Feedback**: Native system service for tactile response.
 
-## 🚀 Getting Started
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/pixel-calculator.git](https://github.com/your-username/pixel-calculator.git)
-    ```
-
-2.  **Navigate to the project folder:**
-    ```bash
-    cd pixel-calculator
-    ```
-
-3.  **Install dependencies:**
-    ```bash
-    flutter pub get
-    ```
-
-4.  **Run the application:**
-    ```bash
-    flutter run
-    ```
