@@ -8,7 +8,7 @@ void main() {
 
 class PixelCalcApp extends StatelessWidget {
   const PixelCalcApp({super.key});
-
+  
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
